@@ -1,4 +1,4 @@
-import { Link } from "next/link"; // 1. Use Next.js Link
+import Link from "next/link"; // 1. Use Next.js Link
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
